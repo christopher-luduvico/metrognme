@@ -1,8 +1,8 @@
-# Olá, eu sou o Christopher Luduvico 👋
+# Olá, eu sou o Christopher Luduvico
 
-### Consultor Jurídico Executivo | Especialista em Legal Ops & Data Intelligence
+### Consultor Jurídico | Especialista em Legal Ops & Data Intelligence
 
-Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão é transformar a complexidade jurídica em eficiência operacional através da análise de dados e automação de processos. Sou especialista em Compliance e Auditoria Digital, utilizando tecnologia para mitigar riscos e otimizar o fluxo de caixa empresarial.
+Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão é transformar a complexidade jurídica em eficiência operacional através da análise de dados e automação de processos. Sou especialista em Compliance e Auditoria Digital, utilizando tecnologia para mitigar riscos e otimizar o fluxo operacional de escritórios de advocacia.
 
 ---
 
