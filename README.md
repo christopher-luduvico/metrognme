@@ -1,4 +1,4 @@
-# Olá, eu sou o Christopher Luduvico
+# Christopher Luduvico
 
 ### Consultor Jurídico | Especialista em Legal Ops & Data Intelligence
 
