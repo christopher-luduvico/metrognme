@@ -6,7 +6,7 @@ Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão �
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas (Tech Stack Jurídico)
+## Tecnologias e Ferramentas (Tech Stack Jurídico)
 
 * **Linguagens & Análise:** Python (Pandas para análise de dados fiscais/trabalhistas), SQL (Extração de dados e BI).
 * **Automação & Infra:** Bash/Linux para automação de tarefas repetitivas e Docker para ambientes isolados.
@@ -14,7 +14,7 @@ Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão �
 
 ---
 
-## 🚀 Como aplico TI no setor Jurídico e Financeiro:
+## Como aplico TI no setor Jurídico e Financeiro:
 
 - **Análise de Dados Fiscais:** Utilizo bibliotecas como `pandas` para saneamento de cadastros, revisão técnica de NCMs e identificação de inconsistências tributárias em larga escala.
 - **Automação de Workflow:** Desenvolvimento de scripts para automatizar fluxos de faturamento, monitoramento de prazos e gestão de passivos.
@@ -23,7 +23,7 @@ Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão �
 
 ---
 
-## 🎓 Formação & Especializações
+## Formação & Especializações
 
 - **MBA em Auditoria Tributário e Compliance** – IPOG
 - **Pós-graduação em Direito do Trabalho**
