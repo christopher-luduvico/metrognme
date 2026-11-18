@@ -1,41 +1,36 @@
 # Christopher Luduvico
 
-### Consultor Jurídico | Especialista em Legal Ops & Data Intelligence
+Advogado em Goiânia desde 2019 (OAB/GO 55.987). Trabalho com Direito Tributário
+e compliance e fiz MBA em Direito Tributário, Compliance e Auditoria Digital no IPOG.
 
-Atuo na intersecção entre o **Direito, Gestão e Tecnologia**. Minha missão é transformar a complexidade jurídica em eficiência operacional através da análise de dados e automação de processos. Sou especialista em Compliance e Auditoria Digital, utilizando tecnologia para mitigar riscos e otimizar o fluxo operacional de escritórios de advocacia.
+Uso Linux no dia a dia e programo para resolver problemas da minha própria rotina.
+Aqui ficam esses projetos e os exercícios dos cursos que faço.
 
----
+## Projetos
 
-## Tecnologias e Ferramentas (Tech Stack Jurídico)
+- **[script-automacao-linux-pje-projudi](https://github.com/metrognme/script-automacao-linux-pje-projudi)**:
+  monta no Arch Linux um contêiner Ubuntu com leitor de cartão, certificado digital,
+  PJeOffice Pro e Firefox, prontos para assinar no PJe e no Projudi de Goiás.
+- **[kdashboard-pt](https://github.com/metrognme/kdashboard-pt)**: versão em português
+  de um painel e-ink para Kindle com clima, agenda e listas, editadas por um bot do Telegram.
+- **[script_organizar_pastas](https://github.com/metrognme/script_organizar_pastas)**:
+  organiza uma pasta por extensão de arquivo e grava um log de tudo o que mudou.
+- **[blog](https://metrognme.github.io/blog/)**: meu site pessoal, em HTML no GitHub Pages.
+- Exercícios de Python: [task_manager](https://github.com/metrognme/task_manager) e
+  [python_projeto_sistema_bancario](https://github.com/metrognme/python_projeto_sistema_bancario).
 
-* **Linguagens & Análise:** Python (Pandas para análise de dados fiscais/trabalhistas), SQL (Extração de dados e BI).
-* **Automação & Infra:** Bash/Linux para automação de tarefas repetitivas e Docker para ambientes isolados.
-* **Versionamento & Gestão:** Git e GitHub para controle de políticas de conformidade e documentação técnica.
+## Ferramentas
 
----
+Python | Shell (Bash) | Linux | Git | SQL (MySQL) | Docker | Distrobox
 
-## Como aplico TI no setor Jurídico e Financeiro:
+## Formação
 
-- **Análise de Dados Fiscais:** Utilizo bibliotecas como `pandas` para saneamento de cadastros, revisão técnica de NCMs e identificação de inconsistências tributárias em larga escala.
-- **Automação de Workflow:** Desenvolvimento de scripts para automatizar fluxos de faturamento, monitoramento de prazos e gestão de passivos.
-- **Auditoria Digital:** Implementação de rotinas SQL para auditoria interna, garantindo que as operações estejam em total conformidade com a legislação vigente.
-- **Legal Ops:** Estruturação de processos administrativos com foco em escalabilidade e redução de custos operacionais.
+- MBA em Direito Tributário, Compliance e Auditoria Digital | IPOG
+- Pós-graduação em Direito e Processo do Trabalho | Faculdade Metropolitana
+- Bacharelado em Direito | PUC Goiás
 
----
+## Contato
 
-## Formação & Especializações
-
-- **MBA em Auditoria Tributário e Compliance** – IPOG
-- **Pós-graduação em Direito do Trabalho**
-- **Bacharel em Direito** – PUC-Goiás
-
----
-
-## 📫 Conecte-se comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-luduvico/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-luduvico-advogado/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopher.luduvico@gmail.com)
-
----
-
-> "Transformando dados jurídicos em decisões estratégicas."
+[![Site](https://img.shields.io/badge/Site-1f5e3b?style=for-the-badge)](https://metrognme.github.io/blog/)
